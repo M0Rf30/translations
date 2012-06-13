@@ -1,14 +1,14 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 #
-# Gianluca Boiano <morf3089@gmail.com>, 2011, 2012.
+# Gianluca Boiano <g.boiano@studenti.unisa.it>, 2011, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: veromix-0.9\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-06 00:35+0200\n"
-"PO-Revision-Date: 2012-05-07 11:59+0200\n"
-"Last-Translator: Gianluca Boiano <morf3089@gmail.com>\n"
+"POT-Creation-Date: 2012-06-13 00:06+0200\n"
+"PO-Revision-Date: 2012-06-13 17:48+0200\n"
+"Last-Translator: M0Rf30\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -130,39 +130,44 @@ msgstr "Media player in esecuzione:"
 msgid "Show album art"
 msgstr "Mostra copertine"
 
-#: plasma/contents/code/Channel.py:139
+#: plasma/contents/code/Channel.py:140
 msgid "Muted"
 msgstr "Muto"
 
-#: plasma/contents/code/Channel.py:146
+#: plasma/contents/code/Channel.py:147 gtk/ContextMenu.py:134
+msgid "Volume meter"
+msgstr "Mostra VuMeter"
+
+#: plasma/contents/code/Channel.py:154
 msgid "Unlock channels"
 msgstr "Dividi canali"
 
-#: plasma/contents/code/Channel.py:155
+#: plasma/contents/code/Channel.py:163 gtk/ContextMenu.py:167
 msgid "Ports"
-msgstr "Porte"
+msgstr "Connettori"
 
-#: plasma/contents/code/Channel.py:179
+#: plasma/contents/code/Channel.py:187 gtk/ContextMenu.py:190
 msgid "Profile"
 msgstr "Profilo"
 
-#: plasma/contents/code/Channel.py:208
+#: plasma/contents/code/Channel.py:216
 msgid "Veromix Settings"
 msgstr "Impostazioni di Veromix"
 
-#: plasma/contents/code/Channel.py:402
+#: plasma/contents/code/Channel.py:413
 msgid "Presets"
 msgstr "Programmi"
 
-#: plasma/contents/code/Channel.py:404 plasma/contents/code/SinkMbeqUI.py:294
+#: plasma/contents/code/Channel.py:415 plasma/contents/code/SinkMbeqUI.py:294
+#: gtk/ContextMenu.py:260
 msgid "Save"
 msgstr "Salva"
 
-#: plasma/contents/code/Channel.py:409
+#: plasma/contents/code/Channel.py:420 gtk/ContextMenu.py:265
 msgid "Save As..."
 msgstr "Salva con nome"
 
-#: plasma/contents/code/Channel.py:423
+#: plasma/contents/code/Channel.py:434 gtk/ContextMenu.py:284
 msgid "Effect"
 msgstr "Effetto"
 
@@ -171,37 +176,37 @@ msgid "Show position"
 msgstr "Mostra posizione"
 
 #: plasma/contents/code/SinkInputUI.py:48
-#: plasma/contents/code/SinkMbeqUI.py:131
+#: plasma/contents/code/SinkMbeqUI.py:131 gtk/ContextMenu.py:118
 msgid "Disconnect/kill"
 msgstr "Disconnetti/termina"
 
 #: plasma/contents/code/SinkInputUI.py:56
-#: plasma/contents/code/SourceOutputUI.py:50
+#: plasma/contents/code/SourceOutputUI.py:53 gtk/ContextMenu.py:148
 msgid "Move To"
 msgstr "Sposta in"
 
 #: plasma/contents/code/SinkInputUI.py:95
-#: plasma/contents/code/veromixcommon/PulseProxyObjects.py:310
+#: plasma/contents/code/veromixcommon/PulseProxyObjects.py:305
 msgid "Event Sounds"
 msgstr "Suoni Notifica"
 
 #: plasma/contents/code/SinkInputUI.py:99
-#: plasma/contents/code/veromixcommon/PulseProxyObjects.py:314
+#: plasma/contents/code/veromixcommon/PulseProxyObjects.py:309
 msgid "Flash Player"
 msgstr "Flash Player"
 
 #: plasma/contents/code/SinkInputUI.py:103
-#: plasma/contents/code/veromixcommon/PulseProxyObjects.py:318
+#: plasma/contents/code/veromixcommon/PulseProxyObjects.py:313
 msgid "Chromium Browser"
 msgstr "Chromium Browser"
 
 #: plasma/contents/code/SinkInputUI.py:107
-#: plasma/contents/code/veromixcommon/PulseProxyObjects.py:322
+#: plasma/contents/code/veromixcommon/PulseProxyObjects.py:317
 msgid "Event Sound"
 msgstr "Suono Notifica"
 
 #: plasma/contents/code/SinkInputUI.py:109
-#: plasma/contents/code/veromixcommon/PulseProxyObjects.py:324
+#: plasma/contents/code/veromixcommon/PulseProxyObjects.py:319
 msgid "Voice Output"
 msgstr "Uscita"
 
@@ -221,7 +226,7 @@ msgstr "Audio Interno"
 msgid "Uncombine"
 msgstr "Separa"
 
-#: plasma/contents/code/SinkUI.py:61
+#: plasma/contents/code/SinkUI.py:61 gtk/ContextMenu.py:244
 msgid "Add Effect"
 msgstr "Aggiungi Effetto"
 
@@ -341,3 +346,67 @@ msgstr "Muto"
 msgid "Volume Keyboard Shortcuts"
 msgstr "Tasti rapidi per Volume"
 
+#: gtk/ContextMenu.py:112
+msgid "Default device"
+msgstr "Dispositivo predefinito"
+
+#: gtk/ContextMenu.py:126
+msgid "Mute"
+msgstr "Muto"
+
+#: gtk/ContextMenu.py:141
+msgid "Unlock Channels"
+msgstr "Dividi Canali"
+
+#: gtk/ContextMenu.py:253
+msgid "Preset"
+msgstr "Programma"
+
+#: gtk/ContextMenu.py:321
+msgid "Save Preset"
+msgstr "Salva Programma"
+
+#: gtk/main.py:42
+msgid "Veromix"
+msgstr "Veromix"
+
+#~ msgid "Please remove and re-add myself"
+#~ msgstr "Per favore rimuovi il plasmoide Veromix e riaggiungilo"
+
+#~ msgid ""
+#~ "<b>Configuration updated</b><br/>             Because of a known bug in "
+#~ "KDE 4.4 initialization of Veromix failed.<br/><br/>            A "
+#~ "workaround is now installed.<br/><br/>            Please <b>remove</b> "
+#~ "this applet and <b>add</b> Veromix again to your desktop/panel "
+#~ "(alternatively you can restart plasma-desktop).<br/><br/>             "
+#~ "Sorry for the inconvenience.<br/><br/>            <a href=\"http://code."
+#~ "google.com/p/veromix-plasmoid/wiki/VeromixComponents#KDE_4.4_compatibility"
+#~ "\">See wiki for more details</a> <span style=\"font-size: small;\">(right "
+#~ "click and copy url)</span>. "
+#~ msgstr ""
+#~ "<b>Impostazioni aggiornate</a><br/>A causa di un bug in KDE 4.4 Veromix "
+#~ "ha riscontrato un problema di avvio.<br/><br/>Il problema sarà aggirato a "
+#~ "breve.<br/><br/>Si prega<b>di rimuovere</b> questo plasmoidee di "
+#~ "riaggiunderlo al desktop/pannello. In alternativa riavvia plasma-"
+#~ "desktop.  <br/><br/><a href=\"http://code.google.com/p/veromix-plasmoid/"
+#~ "wiki/VeromixComponents#KDE_4.4_compatibility\">Troverai maggiori dettagli "
+#~ "sul wiki</a> <span style=\"font-size: small;\">(tasto destro e \"Copia "
+#~ "indirizzo del collegamento\")</span>."
+
+#~ msgid "Add equalizer"
+#~ msgstr "Aggiungi equalizzatore"
+
+#~ msgid "Output"
+#~ msgstr "Uscita"
+
+#~ msgid "Enable media player controls"
+#~ msgstr "Mostra controlli lettore multimediale"
+
+#~ msgid "System Notifications"
+#~ msgstr "Notifiche di sistema"
+
+#~ msgid "mpris2 Mediaplayers"
+#~ msgstr "Interfaccia multimediale MPRIS2"
+
+#~ msgid "Use tabs (requires plasma restart)"
+#~ msgstr "Tabs anzeigen (plasma muss neu gestartet werden)"
