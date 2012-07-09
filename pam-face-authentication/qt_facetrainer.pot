@@ -1,0 +1,269 @@
+# M0Rf30, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-04 18:23+0530\n"
+"PO-Revision-Date: 2012-07-09 17:57+0200\n"
+"Last-Translator: M0Rf30\n"
+"Language-Team: Italian <kde-i18n-it@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.4\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: aboutDialog#1
+msgid "About the Software \\m/"
+msgstr "Informazioni \\m/"
+
+#: aboutDialog#2
+msgid "Pluggable Authentication Module for your favorite Linux Distro"
+msgstr "Pluggable Authentication Module per la tua Distro Linux preferita"
+
+#: aboutDialog#3
+msgid "About"
+msgstr "Informazioni"
+
+#: aboutDialog#4
+msgid ""
+"This program allows you to login by Face Authentication.\n"
+"Care has been taken to give you the best User Experience Possible.\n"
+"If you encounter any bugs , report at  "
+msgstr ""
+"Questo programma ti permette di autenticarti tramite riconoscimento "
+"facciale.\n"
+"E' stato progettato con cura per offrire la migliore esperienza utente "
+"possibile.\n"
+"Se trovi un bug, segnalalo a"
+
+#: aboutDialog#5
+msgid ""
+"This program was developed during the auspicious Google Summer of Code "
+"program in 2009 and 2008\n"
+msgstr ""
+"Questo programma è stato sviluppato durante lo stimolante Google Summer of "
+"Code "
+"nel 2009 e 2008\n"
+
+#: aboutDialog#6
+msgid "Authors"
+msgstr "Autori"
+
+#: aboutDialog#7
+msgid "Thanks To"
+msgstr "Ringraziamenti"
+
+#: aboutDialog#8
+msgid "Translation"
+msgstr "Traduzione"
+
+#: aboutDialog#9
+msgid "Artwork"
+msgstr "Grafica"
+
+#: aboutDialog#10
+msgid "OK"
+msgstr "OK"
+
+#: faceTrainer#1
+msgid "Face Trainer"
+msgstr "Calibra Volto"
+
+#: faceTrainer#2
+msgid "Next"
+msgstr "Successivo"
+
+#: faceTrainer#3
+msgid "For Your Information"
+msgstr "Per la tua curiosità"
+
+#: faceTrainer#4
+msgid "1"
+msgstr "1"
+
+#: faceTrainer#5
+msgid "Exit"
+msgstr "Esci"
+
+#: faceTrainer#7
+msgid "Read the instructions for High Efficiency"
+msgstr "Leggi le istruzioni per un'alta efficienza"
+
+#: faceTrainer#9
+msgid ""
+"To ensure high efficiency please keep proper distance between face and "
+"webcam"
+msgstr ""
+"Per assicurarti un ottimale grado di utilizzo stabilisci una distanza "
+"appropriata "
+"tra il volto e la webcam"
+
+#: faceTrainer#10
+msgid "Try to sit where there is ample lighting"
+msgstr "Prova a sederti dove vi è buona illuminazione"
+
+#: faceTrainer#11
+msgid "No glass or hat as it might affect the recognition rate"
+msgstr ""
+"Nessuno vetro o cappello potrebbe influenzare il tasso di riconoscimento"
+
+#: faceTrainer#12
+msgid "2"
+msgstr "2"
+
+#: faceTrainer#13
+msgid "Capture"
+msgstr "Cattura"
+
+#: faceTrainer#14
+msgid "Train Your Face"
+msgstr "Calibra il tuo volto"
+
+#: faceTrainer#15
+msgid "Back"
+msgstr "Indietro"
+
+#: faceTrainer#16
+msgctxt "faceTrainer#16"
+msgid "Advanced Settings"
+msgstr "Avanzate"
+
+#: faceTrainer#17
+msgid "About this Software !"
+msgstr "Dimmi di più !"
+
+#: faceTrainer#19
+msgid "Delete Selected Item"
+msgstr "Cancella Oggetto Selezionato"
+
+#: faceTrainer#20
+msgid "3"
+msgstr "3"
+
+#: faceTrainer#21
+msgid "Congratulations"
+msgstr "Congratulazioni"
+
+#: faceTrainer#22
+msgid "Get ready to be dazzled!"
+msgstr "Preparati ad essere abbagliato!"
+
+#: faceTrainer#23
+msgid "Finish"
+msgstr "Finito"
+
+#: faceTrainer#24
+msgid ""
+"Thank you for using our application, to be a part of this project , visit "
+"http://code.google.com/p/pam-face-authentication/ , we hope to see you "
+"there!\n"
+"\n"
+"\n"
+"regards\n"
+"Developers"
+msgstr ""
+"Grazie per l'utilizzo della nostra applicazione, per essere una parte di "
+"questo progetto."
+"Visita http://code.google.com/p/pam-face-authentication/ , speriamo di "
+"incontrarti là!\n"
+"\n"
+"\n"
+"Riguardi\n"
+"Gli Sviluppatori"
+
+#: faceTrainer#25
+msgid "Cancel"
+msgstr "Cancella"
+
+#: faceTrainer#26
+msgid "Please come closer to the camera."
+msgstr "Per favore avvicinati alla webcam"
+
+#: faceTrainer#27
+msgid "Please go little far from the camera."
+msgstr "Per favore distanziati dalla webcam"
+
+#: faceTrainer#28
+msgid "Unable to Detect Your Face."
+msgstr "Impossibile Rilevare il Tuo Volto."
+
+#: faceTrainer#29
+msgid "Tracker lost, trying to reinitialize."
+msgstr "Tracker perso, provo a reinizializzare"
+
+#: faceTrainer#30
+msgid "Tracking in progress."
+msgstr "Tracking in esecuzione."
+
+#: faceTrainer#31
+msgid "Captured %1 / %2 faces."
+msgstr "Catturato/i %1 / %2 volto/i."
+
+#: faceTrainer#32
+msgid "Capturing Image Finished."
+msgstr "Cattura Immagine Terminata."
+
+#: faceTrainer#33
+msgid "Processing Faces, Please Wait ..."
+msgstr "Analisi Volti, aspetta e goditi un caffè ..."
+
+#: faceTrainer#34
+msgid "Processing Completed."
+msgstr "Analisi Completata."
+
+#: faceTrainer#35
+msgid "<strong>Error</strong>"
+msgstr "<strong>Errore</strong>"
+
+#: faceTrainer#36
+msgid "Camera Not Found. <br /> Plugin Your Camera and Try Again."
+msgstr "Webcam Non Trovata. <br /> Collegala e Riprova."
+
+#: faceTrainerAdvSettings#1
+msgctxt "faceTrainerAdvSettings#1"
+msgid "Advanced Settings"
+msgstr "Avanzate"
+
+#: faceTrainerAdvSettings#2
+msgid "Low Security"
+msgstr "Sicurezza Bassa"
+
+#: faceTrainerAdvSettings#3
+msgid "High Security"
+msgstr "Sicurezza Alta"
+
+#: faceTrainerAdvSettings#5
+msgid "Test Recognition"
+msgstr "Prova di Riconoscimento"
+
+#: faceTrainerAdvSettings#6
+msgid "Yes/No"
+msgstr "Si/No"
+
+#: faceTrainerAdvSettings#7
+msgid "Test Recognition Result:"
+msgstr "Risultati Prova di Riconoscimento:"
+
+#: faceTrainerAdvSettings#8
+msgid "Save Config"
+msgstr "Salva Configurazione"
+
+#: faceTrainerAdvSettings#9
+msgid "Defaults"
+msgstr "Prefefinite"
+
+#: faceTrainerAdvSettings#10
+msgid "Medium"
+msgstr "Medio"
+
+#: faceTrainerAdvSettings#11
+msgid "Yes"
+msgstr "Si"
+
+#: faceTrainerAdvSettings#12
+msgid "No"
+msgstr "No"
+
+
