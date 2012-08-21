@@ -1,0 +1,15 @@
+clients
+	spawn_wave
+	arenawin_zombies_prefix
+	arenawin_convert
+	point_reason_10
+
+menus_multiplayer
+	m_mp_ingame_map_upload
+
+menus_settings
+	m_set_perk_time
+
+scripts
+	gamemodedesc 7
+	gspmutdesc 7 0
