@@ -413,7 +413,7 @@ Sito progetto: %3</translation>
     <message>
         <location filename="../enums.hpp" line="504"/>
         <source>Deinterlacing</source>
-        <translation>Deinterlacciatura</translation>
+        <translation>Deinterlacciamento</translation>
     </message>
     <message>
         <location filename="../enums.hpp" line="751"/>
